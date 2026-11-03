@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Ayrames Teodósio from Brasil<br><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning Ruby on Rails<br>- ⚡ In my free time I studie and play games</p>
+<p data-importer="text" align="left">I'm Ayrames Teodósio from Brazil<br><br>- 🔭 Full-Stack Developer, open to new opportunities<br>- 📚 I'm currently learning Ruby on Rails<br>- ⚡ In my free time I study and play games</p>
 
 ###
 
