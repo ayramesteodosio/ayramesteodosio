@@ -1,8 +1,6 @@
-<div align="center">
-
+<p align="center">
 <img src="assets/profissional/header.svg" alt="Ayrames Teodósio, desenvolvedor full-stack. Do pixel ao banco de dados. Base no Brasil, aberto a oportunidades." width="880">
-
-</div>
+</p>
 
 <img src="assets/profissional/section-sobre.svg" alt="Sobre" width="880">
 
@@ -51,6 +49,10 @@ Acompanhamento de consumo de água e treinos, com calendário da semana.
 
 <img src="assets/profissional/section-contato.svg" alt="Contato" width="880">
 
-[LinkedIn](https://www.linkedin.com/in/ayrames-pereira) · [Instagram](https://www.instagram.com/ay.core/) · [Portfólio](https://ayramesteodosio.github.io/portfolio/)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayrames-pereira"><img src="assets/profissional/contato-linkedin.svg" alt="LinkedIn: in/ayrames-pereira" width="280"></a> <a href="https://www.instagram.com/ay.core/"><img src="assets/profissional/contato-instagram.svg" alt="Instagram: @ay.core" width="280"></a> <a href="https://ayramesteodosio.github.io/portfolio/"><img src="assets/profissional/contato-portfolio.svg" alt="Portfólio: ver site completo" width="280"></a>
+
+</div>
 
 <img src="assets/profissional/footer.svg" alt="" width="880">
