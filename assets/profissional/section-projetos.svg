@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44" role="img" aria-label="03 Projetos">
+  <rect x="0.5" y="0.5" width="879" height="43" rx="10" fill="#0E0E10" stroke="#2A2A33"/>
+  <text x="24" y="26" font-family="'Consolas','Courier New',monospace" font-size="12" fill="#5EA0FF">03</text>
+  <text x="62" y="26" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#FFFFFF" textLength="84" lengthAdjust="spacing">PROJETOS</text>
+  <line x1="164" y1="22.5" x2="856" y2="22.5" stroke="#2A2A33" stroke-width="1"/>
+</svg>

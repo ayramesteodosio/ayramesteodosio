@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-labelledby="t d">
+  <title id="t">Ayrames Teodósio, Full-Stack Developer</title>
+  <desc id="d">Desenvolvedor full-stack com TypeScript, React e Next.js. Base no Brasil, estudando Ruby on Rails, aberto a oportunidades.</desc>
+  <style>
+    .t{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .m{font-family:'Consolas','Courier New',monospace}
+    @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+    @keyframes pulse{0%,100%{opacity:.12;transform:scale(1)}50%{opacity:.5;transform:scale(2)}}
+    .route{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 2.5s ease-in-out .15s 1 both}
+    .halo{opacity:.2;transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-in-out infinite}
+    @media (prefers-reduced-motion:reduce){
+      .route{animation:none;stroke-dashoffset:0}
+      .halo{animation:none;opacity:.2;transform:none}
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="879" height="239" rx="10" fill="#0E0E10" stroke="#2A2A33"/>
+
+  <!-- Coluna esquerda -->
+  <text class="t" x="40" y="58" font-size="11" font-weight="600" letter-spacing="2.5" fill="#5EA0FF" textLength="186" lengthAdjust="spacing">FULL-STACK DEVELOPER</text>
+  <text class="t" x="40" y="118" font-size="54" font-weight="600" fill="#FFFFFF" textLength="440" lengthAdjust="spacingAndGlyphs">Ayrames Teodósio</text>
+  <text class="t" x="40" y="148" font-size="14" fill="#A8A8B3" textLength="392" lengthAdjust="spacingAndGlyphs">Desenvolvedor full-stack com TypeScript, React e Next.js.</text>
+  <text class="t" x="40" y="170" font-size="14" fill="#A8A8B3" textLength="166" lengthAdjust="spacingAndGlyphs">Estudando Ruby on Rails.</text>
+
+  <!-- Coluna direita: bloco de cronometragem -->
+  <g stroke="#2A2A33" stroke-width="1">
+    <line x1="548" y1="36.5" x2="840" y2="36.5"/>
+    <line x1="548" y1="70.5" x2="840" y2="70.5"/>
+    <line x1="548" y1="104.5" x2="840" y2="104.5"/>
+    <line x1="548" y1="138.5" x2="840" y2="138.5"/>
+    <line x1="548" y1="172.5" x2="840" y2="172.5"/>
+  </g>
+  <g class="t" font-size="9" letter-spacing="1.6" fill="#A8A8B3">
+    <text x="548" y="57">BASE</text>
+    <text x="548" y="91">FOCO</text>
+    <text x="548" y="125">ESTUDANDO</text>
+    <text x="548" y="159">STATUS</text>
+  </g>
+  <g class="m" font-size="11" fill="#FFFFFF">
+    <text x="748" y="57" textLength="92" lengthAdjust="spacingAndGlyphs">Brasil (GMT-3)</text>
+    <text x="650" y="91" textLength="190" lengthAdjust="spacingAndGlyphs">Desenvolvimento web full-stack</text>
+    <text x="758" y="125" textLength="82" lengthAdjust="spacingAndGlyphs">Ruby on Rails</text>
+    <text x="700" y="159" textLength="140" lengthAdjust="spacingAndGlyphs">Aberto a oportunidades</text>
+  </g>
+  <circle class="halo" cx="688" cy="155" r="3" fill="#1E6BFF"/>
+  <circle cx="688" cy="155" r="3" fill="#1E6BFF"/>
+
+  <!-- Traçado de circuito -->
+  <path d="M40 214 H120 C140 214 150 200 170 200 H260 L300 222 H380 C400 222 408 206 430 206 H520 C545 206 552 216 575 216 H650 L690 198 H760 C780 198 790 210 800 210 H840" fill="none" stroke="#2A2A33" stroke-width="1.5"/>
+  <path class="route" pathLength="1" d="M40 214 H120 C140 214 150 200 170 200 H260 L300 222 H380 C400 222 408 206 430 206 H520 C545 206 552 216 575 216 H650 L690 198 H760 C780 198 790 210 800 210 H840" fill="none" stroke="#1E6BFF" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Marcas de setor -->
+  <g stroke="#A8A8B3" stroke-width="1">
+    <line x1="230.5" y1="195" x2="230.5" y2="205"/>
+    <line x1="480.5" y1="201" x2="480.5" y2="211"/>
+    <line x1="720.5" y1="193" x2="720.5" y2="203"/>
+  </g>
+  <g class="m" font-size="9" fill="#A8A8B3" text-anchor="middle">
+    <text x="230.5" y="219">S1</text>
+    <text x="480.5" y="225">S2</text>
+    <text x="720.5" y="217">S3</text>
+  </g>
+</svg>
