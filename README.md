@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profissional/header.svg" alt="Ayrames Teodósio, desenvolvedor full-stack. Base no Brasil. Aberto a oportunidades." width="880">
+<img src="assets/profissional/header.svg" alt="Ayrames Teodósio, desenvolvedor full-stack. Do pixel ao banco de dados. Base no Brasil, aberto a oportunidades." width="880">
 
 </div>
 
@@ -10,20 +10,44 @@ Desenvolvedor full-stack aberto a novas oportunidades. Desenvolvo com TypeScript
 
 <img src="assets/profissional/section-stack.svg" alt="Stack" width="880">
 
-| Área | Tecnologias |
-| --- | --- |
-| **Linguagens** | TypeScript, Ruby, Python, Go |
-| **Front-end** | React, Next.js |
-| **Em estudo** | Ruby on Rails |
+<img src="assets/profissional/stack.svg" alt="Stack: TypeScript, React, Next.js, Python, Go, Ruby e Ruby on Rails (em estudo)" width="880">
 
 <img src="assets/profissional/section-projetos.svg" alt="Projetos" width="880">
 
-| Projeto | Descrição | Linguagem |
-| --- | --- | --- |
-| [dualsense-studio](https://github.com/ayramesteodosio/dualsense-studio) | Interface para o controle do PS5 no computador, com o controle desenhado ao vivo. | HTML |
-| [dualsense-painel](https://github.com/ayramesteodosio/dualsense-painel) | Carregue, personalize e teste o controle do PS5 no Linux, Windows e macOS. | Python |
-| [portfolio](https://github.com/ayramesteodosio/portfolio) ([site](https://ayramesteodosio.github.io/portfolio/)) | Meu portfólio: Next.js, React e TypeScript, em português e inglês. | TypeScript |
-| [FitWorkout](https://github.com/ayramesteodosio/FitWorkout) ([demo](https://fit-workout.vercel.app)) | Projeto em TypeScript com demo publicada na Vercel. | TypeScript |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ayramesteodosio/dualsense-studio"><img src="assets/projetos/dualsense-studio.jpg" alt="DualSense Studio, aba Controle: o controle desenhado na tela com bateria, conexão e histórico" width="100%"></a>
+<br>
+<b><a href="https://github.com/ayramesteodosio/dualsense-studio">DualSense Studio</a></b> &nbsp;&middot;&nbsp; Python, HTML
+<br>
+Interface para o controle do PS5 no computador, com o controle desenhado na tela e acompanhando o real ao vivo. Luzes, gatilhos adaptativos, teste e perfis, para Windows, macOS e Linux.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ayramesteodosio/dualsense-painel"><img src="assets/projetos/dualsense-painel.jpg" alt="Painel do DualSense, aba Controle" width="100%"></a>
+<br>
+<b><a href="https://github.com/ayramesteodosio/dualsense-painel">Painel do DualSense</a></b> &nbsp;&middot;&nbsp; Python
+<br>
+App para o controle do PS5 no computador: modo carregar, luzes, gatilhos adaptativos e teste de botões e sensores. GTK4 no Linux e Qt no Windows e macOS.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ayramesteodosio/portfolio"><img src="assets/projetos/portfolio.jpg" alt="Portfólio de Ayrames Teodósio, página inicial" width="100%"></a>
+<br>
+<b><a href="https://github.com/ayramesteodosio/portfolio">Portfólio</a></b> &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; <a href="https://ayramesteodosio.github.io/portfolio/">ver site</a>
+<br>
+Meu portfólio em Next.js, React e TypeScript, em português e inglês.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ayramesteodosio/FitWorkout"><img src="assets/projetos/fitworkout.jpg" alt="FitWorkout, tela inicial com consumo de água e treinos da semana" width="100%"></a>
+<br>
+<b><a href="https://github.com/ayramesteodosio/FitWorkout">FitWorkout</a></b> &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; <a href="https://fit-workout.vercel.app">ver demo</a>
+<br>
+Acompanhamento de consumo de água e treinos, com calendário da semana.
+</td>
+</tr>
+</table>
 
 <img src="assets/profissional/section-contato.svg" alt="Contato" width="880">
 
